@@ -15,3 +15,7 @@ for year in years:
     for month in months:
         # Create a directory for the month inside the year directory if it does not exist
         os.makedirs(os.path.join(str(year), month), exist_ok=True)
+    
+    # Create a markdown file named with the year inside the year directory
+    with open(os.path.join(str(year), f"{year}.md"), "w") as f:
+        f.write(f"# Year {year}\\n")
