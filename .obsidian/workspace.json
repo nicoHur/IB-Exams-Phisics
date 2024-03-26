@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "1a14a67fe86e8d67",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a7d5e62eb688592",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cc053fe63c12228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics_SL/2016/2016.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dc391e3e27120a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e91eada45706343",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "500e7680845f34e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "022bbdb50a7db63e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a9b67fb6d0b8a46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d24e1b996feb64",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a1e4822a0dd88ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9cc752c9f946b15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics_SL/2016/2016.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b1a33efcf9b3f84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Physics_SL/2016/2016.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e29d59072229d38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d69ce9b8763aadc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics_SL/2016/2016.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0cc053fe63c12228",
+  "lastOpenFiles": [
+    "Physics_SL/2018/2018.md",
+    "Physics_SL/2019/2019.md",
+    "Physics_SL/2020/2020.md",
+    "Physics_HL/2019/May/Physics_paper_3__TZ2_SL_markscheme.pdf",
+    "Physics_HL/2019/May/Physics_paper_3__TZ2_HL_markscheme.pdf",
+    "Physics_HL/2019/May/Physics_paper_3__SL_Spanish.pdf",
+    "Physics_HL/2019/May/Physics_paper_3__HL_Spanish.pdf",
+    "Physics_HL/2019/May/Physics_paper_2__TZ2_SL_markscheme.pdf",
+    "Physics_HL/2019/May/Physics_paper_2__TZ2_HL_markscheme.pdf",
+    "Physics_HL/2019/May/Physics_paper_2__SL_Spanish.pdf",
+    "Physics_HL/2019/May/Physics_paper_2__HL_Spanish.pdf",
+    "Physics_HL/2019/May/Physics_paper_1__TZ2_SL_markscheme.pdf",
+    "Physics_HL/2019/May/Physics_paper_1__TZ2_HL_markscheme.pdf"
+  ]
+}
