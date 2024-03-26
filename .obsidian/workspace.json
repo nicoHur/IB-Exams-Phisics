@@ -14,14 +14,6 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "7c8faba775cda404",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ]
       }
@@ -37,14 +29,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c37ae26a5b123586",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "50673b299641ad2a",
             "type": "leaf",
             "state": {
@@ -52,6 +36,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "c37ae26a5b123586",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           },
           {
