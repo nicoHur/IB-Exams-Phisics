@@ -10,9 +10,31 @@
           {
             "id": "72890c27eaacdc65",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "3da10529302c87ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2023/November/Physics_paper_1__TZ1_HL.pdf"
+              }
+            }
+          },
+          {
+            "id": "65ff74a61299a5bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2023/November/Physics_paper_1__TZ1_HL_markscheme.pdf"
+              }
             }
           }
         ]
@@ -65,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 314.5
   },
   "right": {
     "id": "7e842aef9d923dc8",
@@ -106,17 +128,18 @@
   },
   "active": "72890c27eaacdc65",
   "lastOpenFiles": [
-    "2017/November/Physics_paper_1__HL_Spanish.pdf",
-    "2017/November/Physics_paper_3__HL_Spanish.pdf",
-    "2017/May/Physics_paper_2__SL_Spanish.pdf",
-    "2017/May/Physics_paper_3__SL_Spanish.pdf",
-    "2017/May/Physics_paper_2__HL_French.pdf",
-    "2017/May/Physics_paper_1__SL_French.pdf",
-    "2017/May/Physics_paper_1__HL_French.pdf",
-    "2017/May/Physics_paper_3__SL_French.pdf",
-    "2017/May/Physics_paper_3__HL_French.pdf",
-    "2017/May/Physics_paper_2__TZ2_HL.pdf",
-    "2017/May/Physics_paper_2__TZ1_HL_markscheme.pdf",
+    "2023/November/Physics_paper_1__TZ1_HL.pdf",
+    "2023/November/Physics_paper_1__HL_Spanish.pdf",
+    "2023/May/Physics_paper_1__TZ2_HL_markscheme.pdf",
+    "2023/May/Physics_paper_1__TZ1_HL_markscheme.pdf",
+    "2023/November/Physics_paper_1__TZ1_HL_markscheme.pdf",
+    "2023/May/Physics_paper_2__TZ2_HL_markscheme.pdf",
+    "2023/May/Physics_paper_2__TZ1_HL.pdf",
+    "2023/May/Physics_paper_2__TZ2_SL.pdf",
+    "2023/May/Physics_paper_3__TZ2_SL_markscheme.pdf",
+    "2023/May/Physics_paper_3__TZ1_SL.pdf",
+    "2014/2014.md",
+    "2014/November/Physics_paper_3_HL_markscheme.pdf",
     "2022/2022.md",
     "2021/2021.md",
     "2020/2020.md",
@@ -125,7 +148,6 @@
     "2017/2017.md",
     "2016/2016.md",
     "2015/2015.md",
-    "2014/2014.md",
     "2013/2013.md",
     "2012/2012.md",
     "2011/2011.md",

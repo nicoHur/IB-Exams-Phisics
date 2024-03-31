@@ -9,7 +9,7 @@ months = ["May", "November"]
 # Iterate over each year
 for year in years:
     # Open the markdown file for the year
-    with open(os.path.join(str(year), f"{year}.md"), "a") as f:
+    with open(os.path.join(str(year), f"{year}.md"), "w") as f:  # 'w' mode will overwrite the existing file
         # Iterate over each month
         for month in months:
             # Write the month to the markdown file
@@ -21,4 +21,4 @@ for year in years:
             # Iterate over each file
             for file in files:
                 # Write the file link to the markdown file using the full relative path for file links in obsidian
-                f.write(f"[[/{year}/{month}/{file}|{file}]]\n")
+                f.write(f"[[/{year}/{month}/{file}]]\n")
