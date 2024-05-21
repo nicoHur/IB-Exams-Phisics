@@ -1,40 +1,18 @@
 {
   "main": {
-    "id": "d4879bba2d6777e7",
+    "id": "5da209e20d05a141",
     "type": "split",
     "children": [
       {
-        "id": "67d12ff862aca212",
+        "id": "36888fc60dad1158",
         "type": "tabs",
         "children": [
           {
-            "id": "72890c27eaacdc65",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "3da10529302c87ad",
+            "id": "d4f5b7f6daf47c04",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2023/November/Physics_paper_1__TZ1_HL.pdf"
-              }
-            }
-          },
-          {
-            "id": "65ff74a61299a5bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2023/November/Physics_paper_1__TZ1_HL_markscheme.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "be0274c2c357b199",
+    "id": "3342274b57453887",
     "type": "split",
     "children": [
       {
-        "id": "d7bd1ad74d14f365",
+        "id": "2822b10e39f88bed",
         "type": "tabs",
         "children": [
           {
-            "id": "50673b299641ad2a",
+            "id": "baadbfc08233e82e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,15 +39,7 @@
             }
           },
           {
-            "id": "c37ae26a5b123586",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "39eec7b49b850d76",
+            "id": "3f8677f093ed9e87",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -82,23 +52,31 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "3ea929254a5c1d95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 300
   },
   "right": {
-    "id": "7e842aef9d923dc8",
+    "id": "d600686e3538eb33",
     "type": "split",
     "children": [
       {
-        "id": "7aa5b17b4b6b0fcd",
+        "id": "67b39cd468f86bf6",
         "type": "tabs",
         "children": [
           {
-            "id": "4ea740a50b537a47",
+            "id": "cdf48f15204939e8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -112,6 +90,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "3c4f4a2810a279f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a57b21665bc3d12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa57b50f609c5524",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -122,47 +130,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
-      "graph:Open graph view": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "72890c27eaacdc65",
-  "lastOpenFiles": [
-    "2023/November/Physics_paper_1__TZ1_HL.pdf",
-    "2023/November/Physics_paper_1__HL_Spanish.pdf",
-    "2023/May/Physics_paper_1__TZ2_HL_markscheme.pdf",
-    "2023/May/Physics_paper_1__TZ1_HL_markscheme.pdf",
-    "2023/November/Physics_paper_1__TZ1_HL_markscheme.pdf",
-    "2023/May/Physics_paper_2__TZ2_HL_markscheme.pdf",
-    "2023/May/Physics_paper_2__TZ1_HL.pdf",
-    "2023/May/Physics_paper_2__TZ2_SL.pdf",
-    "2023/May/Physics_paper_3__TZ2_SL_markscheme.pdf",
-    "2023/May/Physics_paper_3__TZ1_SL.pdf",
-    "2014/2014.md",
-    "2014/November/Physics_paper_3_HL_markscheme.pdf",
-    "2022/2022.md",
-    "2021/2021.md",
-    "2020/2020.md",
-    "2019/2019.md",
-    "2018/2018.md",
-    "2017/2017.md",
-    "2016/2016.md",
-    "2015/2015.md",
-    "2013/2013.md",
-    "2012/2012.md",
-    "2011/2011.md",
-    "2010/2010.md",
-    "2009/2009.md",
-    "2008/2008.md",
-    "2007/2007.md",
-    "2006/2006.md",
-    "2005/2005.md",
-    "2004/2004.md",
-    "2003/2003.md",
-    "2002/2002.md",
-    "2001/2001.md",
-    "2000/2000.md",
-    "1999/1999.md",
-    "Map.md"
-  ]
+  "active": "d4f5b7f6daf47c04",
+  "lastOpenFiles": []
 }
